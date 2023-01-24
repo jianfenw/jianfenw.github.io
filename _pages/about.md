@@ -16,7 +16,9 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 ## Bio
-<p>I am a Ph.D. candidate in the <a href="https://minghsiehee.usc.edu/">ECE department</a> at at <a href="http://www.usc.edu">University of Southern California</a>. I am fortunate to work with <a href="https://govindan.usc.edu/">Prof. Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Prof. Barath Raghavan</a> in <a href="http://nsl.cs.usc.edu/">Networked System Lab (NSL)</a>.
+<p>Hey, thanks for stopping by! 👋</p>
+
+<p>I am a Ph.D. candidate in the <a href="https://minghsiehee.usc.edu/">ECE department</a> at at <a href="http://www.usc.edu">University of Southern California</a>. I am co-advised by  <a href="https://govindan.usc.edu/">Prof. Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Prof. Barath Raghavan</a> at <a href="https://nsl.usc.edu/">Networked System Lab (NSL)</a>.
 Prior to joining USC, I received my B.S. degree in EECS and B.A. degree in Economics from <a href="http://english.pku.edu.cn/">Peking University</a>.</p>
 
 <p>I am interested in Computer Networking and System research including software-defined networking (SDN), network function virtualization (NFV), and high-performance cloud/edge computing. I enjoy building large-scale, high-throughput and low-latency computing systems, especially for packet-processing systems.</p>
@@ -98,7 +100,7 @@ In arXiv:2101.06466, January 2021<br>
 <a href="https://dl.acm.org/doi/10.1145/3386367.3431292"><b>Meeting SLOs in Cross-Platform NFV</b></a><br/>
 Jane Yen*, <b>Jianfeng Wang*</b>, Sucha Supittayapornpong, and Marcos A M Vieira, Ramesh Govindan, Barath Raghavan (*: co-first author)<br>
 In CoNEXT '20: Proceedings of the 16th International Conference on Emerging Networking EXperiments and Technologies, 2020<br>
-&#9786; <i>How to integrate P4 and OpenFlow switches, smart NICs, and software and hit NFV SLOs.</i>
+&#9786; <i>Offloading NFV automatically to Smart NICs, OpenFlow and P4 switches to hit NFV SLOs.</i>
 </li>
 </p>
 
