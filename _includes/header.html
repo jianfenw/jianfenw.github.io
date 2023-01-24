@@ -51,6 +51,7 @@
                   {%- endif -%}
                 </a>
               </li>
+
               <!-- Blog -->
               <!-- {% if site.blog_nav_title %}
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
@@ -61,6 +62,12 @@
                 </a>
               </li>
               {%- endif %} -->
+
+              <li class="nav-item active">
+                <a class="nav-link" href="/assets/pdf/Jianfeng_CV.pdf">cv
+                  <!-- <span class="sr-only">cv</span> -->
+                </a>
+              </li>
 
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
