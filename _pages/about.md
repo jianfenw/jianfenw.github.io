@@ -59,10 +59,20 @@ Mentor: <a href="https://www.linkedin.com/in/tbansal-0998216">Tarun Bansal</a><b
 </p>
 
 ## Publications
+
+<p>
+<li>
+<a href="/"><b>eMPTI: Network Stack Multi-Party Trust Interposition</b></a><br/>
+<b>Jianfeng Wang</b>, Rob McGuinness, Grace Susanto, Kyle MacMillan, Max Bittman, Barath Raghavan, and Paul Schmitt<br>
+Under submission<br>
+&#9786; <i>Mechanisms for ensuring metadata level privacy for web browsing and more.</i>
+</li>
+</p>
+
 <p>
 <li>
 <a href="/"><b>Ironside: Microsecond-scale Latency SLOs for Network Function Chains</b></a><br/>
-<b>Jianfeng Wang</b>, Siddhant Gupta, Marcos A. M. Vieira, and Ramesh Govindan, and Barath Raghavan<br>
+<b>Jianfeng Wang</b>, Siddhant Gupta, Marcos A. M. Vieira, Barath Raghavan, and Ramesh Govindan<br>
 Under submission<br>
 &#9786; <i>Providing untra-low latency for NFV.</i>
 </li>
