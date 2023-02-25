@@ -62,16 +62,16 @@ Mentor: <a href="https://www.linkedin.com/in/tbansal-0998216">Tarun Bansal</a><b
 
 <p>
 <li>
-<a href="/"><b>eMPTI: Network Stack Multi-Party Trust Interposition</b></a><br/>
+<a href="/"><b>ePipe: Multi-Party Trust Interposition for Network Stacks</b></a><br/>
 <b>Jianfeng Wang</b>, Rob McGuinness, Grace Susanto, Kyle MacMillan, Max Bittman, Barath Raghavan, and Paul Schmitt<br>
 Under submission<br>
-&#9786; <i>Mechanisms for ensuring metadata level privacy for web browsing and more.</i>
+&#9786; <i>Architecture/mechanisms for ensuring metadata level privacy for web browsing and more.</i>
 </li>
 </p>
 
 <p>
 <li>
-<a href="/"><b>Ironside: Microsecond-scale Latency SLOs for Network Function Chains</b></a><br/>
+<a href="/"><b>Microsecond-scale Latency SLOs for Network Function Virtualization</b></a><br/>
 <b>Jianfeng Wang</b>, Siddhant Gupta, Marcos A. M. Vieira, Barath Raghavan, and Ramesh Govindan<br>
 Under submission<br>
 &#9786; <i>Providing untra-low latency for NFV.</i>
@@ -80,7 +80,7 @@ Under submission<br>
 
 <p>
 <li>
-<a href="/"><b>Pinolo: Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis</b></a><br/>
+<a href="/"><b>Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis</b></a><br/>
 Zongyin Hao, Quanfeng Huang, Chengpeng Wang, <b>Jianfeng Wang</b>, Yushan Zhang, Rongxin Wu, and Charles Zhang<br>
 Under submission<br>
 &#9786; <i>Finding critical bugs in widely-used database systems.</i>
