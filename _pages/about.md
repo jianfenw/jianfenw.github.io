@@ -18,12 +18,14 @@ social: false  # includes social icons at the bottom of the page
 ## Bio
 <p>Hey, thanks for stopping by! 👋</p>
 
-<p>I am a Ph.D. candidate in the <a href="https://minghsiehee.usc.edu/">ECE department</a> at at <a href="http://www.usc.edu">University of Southern California</a>. I am co-advised by  <a href="https://govindan.usc.edu/">Prof. Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Prof. Barath Raghavan</a> at <a href="https://nsl.usc.edu/">Networked System Lab (NSL)</a>.
+<p>I am working toward Ph.D. in <a href="https://minghsiehee.usc.edu/">ECE department</a> at <a href="http://www.usc.edu">University of Southern California</a>. I am co-advised by  <a href="https://govindan.usc.edu/">Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Barath Raghavan</a> at <a href="https://nsl.usc.edu/">Networked System Lab</a>.
 Prior to joining USC, I received my B.S. degree in EECS and B.A. degree in Economics from <a href="http://english.pku.edu.cn/">Peking University</a>.</p>
 
-<p>I am interested in Computer Networking and System research including software-defined networking (SDN), network function virtualization (NFV), and high-performance cloud/edge computing. I enjoy building large-scale, high-throughput and low-latency computing systems, especially for packet-processing systems.</p>
+<p>I enjoy Computer Networking and System research, including software-defined networking (SDN), network function virtualization (NFV), and high-performance cloud computing. My dissertation is about designing OS-level supports to achieve <i>performant, scalable and efficient</i> cloud services.</p>
 
-<p>I've built <b>Lemur</b>, a high-throuhgput NFV cross-platform compiler; <b>Quadrant</b>, a cloud-deployable NFV platform with an efficient isolation mechanism; <b>Ironside</b>, a rack-scale scheduler that provides latency guarantees for NFV; <b>PGPP</b>, a privacy-preserving proxy (one example of NFV app) for Android (<a href="https://play.google.com/store/apps/details?id=com.invisv.pgpp&hl=en_US&gl=US&pli=1">free download</a> @ Google Play Store). PGPP can hide your IP address when you use web services (see this <a href="https://www.wired.com/story/pretty-good-phone-privacy-android/">Wired report</a> for more info).</p>
+<p>I am passionate about building large-scale, high-throughput and low-latency computing systems. I've built <b>Lemur</b>, a high-throuhgput NFV cross-platform compiler; <b>Quadrant</b>, a serverless platform with an efficient isolation mechanism; <b>Ironside</b>, a rack-scale scheduler that offers latency guarantees for NFV; <b>PGPP</b>, a privacy-preserving proxy (one example of NFV app) for Android (<a href="https://play.google.com/store/apps/details?id=com.invisv.pgpp&hl=en_US&gl=US&pli=1">free download</a> @ Google Play Store). PGPP can hide your IP address when you use ANY web services (see <a href="https://www.wired.com/story/pretty-good-phone-privacy-android/">Wired report</a> for more info).</p>
+
+<p>I will join Oracle as a senior software engineer!</p>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
@@ -55,7 +57,7 @@ Mentor: <a href="https://www.linkedin.com/in/tbansal-0998216">Tarun Bansal</a><b
 ## Teaching
 
 <p>
-<b>Course:</b> CSCI 402 (Operating Systems), Fall 2022 / Spring 2023
+<b>Course:</b> CSCI 402 (Operating Systems), Fall '22 / Spring '23 / Summer '23
 </p>
 
 ## Publications
@@ -80,10 +82,10 @@ Under submission<br>
 
 <p>
 <li>
-<a href="/"><b>Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis</b></a><br/>
+<a href="/"><b>Pinolo: Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis</b></a><br/>
 Zongyin Hao, Quanfeng Huang, Chengpeng Wang, <b>Jianfeng Wang</b>, Yushan Zhang, Rongxin Wu, and Charles Zhang<br>
-Under submission<br>
-&#9786; <i>Finding critical bugs in widely-used database systems.</i>
+In ATC ’23: Proceedings of the USENIX Annual Technical Conference, 2023<br>
+&#9786; <i>Finding critical bugs in widely-used database management systems.</i>
 </li>
 </p>
 
@@ -113,7 +115,6 @@ In CoNEXT '20: Proceedings of the 16th International Conference on Emerging Netw
 &#9786; <i>Offloading NFV automatically to Smart NICs, OpenFlow and P4 switches to hit NFV SLOs.</i>
 </li>
 </p>
-
 <p></p>
 
 ## Contact
