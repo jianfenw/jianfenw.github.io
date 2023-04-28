@@ -18,14 +18,13 @@ social: false  # includes social icons at the bottom of the page
 ## Bio
 <p>Hey, thanks for stopping by! 👋</p>
 
-<p>I am working toward Ph.D. in <a href="https://minghsiehee.usc.edu/">ECE department</a> at <a href="http://www.usc.edu">University of Southern California</a>. I am co-advised by  <a href="https://govindan.usc.edu/">Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Barath Raghavan</a> at <a href="https://nsl.usc.edu/">Networked System Lab</a>.
-Prior to joining USC, I received my B.S. degree in EECS and B.A. degree in Economics from <a href="http://english.pku.edu.cn/">Peking University</a>.</p>
+<p>I will join Oracle as a senior software engineer in August!</p>
+
+<p>I am a Ph.D. in <a href="https://minghsiehee.usc.edu/">Electrical and Computer Engineering</a> at <a href="http://www.usc.edu">University of Southern California</a>. I am co-advised by  <a href="https://govindan.usc.edu/">Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Barath Raghavan</a> at <a href="https://nsl.usc.edu/">Networked System Lab</a>.</p>
 
 <p>I enjoy Computer Networking and System research, including software-defined networking (SDN), network function virtualization (NFV), and high-performance cloud computing. My dissertation is about designing OS-level supports to achieve <i>performant, scalable and efficient</i> cloud services.</p>
 
-<p>I am passionate about building large-scale, high-throughput and low-latency computing systems. I've built <b>Lemur</b>, a high-throuhgput NFV cross-platform compiler; <b>Quadrant</b>, a serverless platform with an efficient isolation mechanism; <b>Ironside</b>, a rack-scale scheduler that offers latency guarantees for NFV; <b>PGPP</b>, a privacy-preserving proxy (one example of NFV app) for Android (<a href="https://play.google.com/store/apps/details?id=com.invisv.pgpp&hl=en_US&gl=US&pli=1">free download</a> @ Google Play Store). PGPP can hide your IP address when you use ANY web services (see <a href="https://www.wired.com/story/pretty-good-phone-privacy-android/">Wired report</a> for more info).</p>
-
-<p>I will join Oracle as a senior software engineer!</p>
+<p>Prior to joining USC, I spent four wonderful years at <a href="http://english.pku.edu.cn/">Peking University</a>, graduating with B.S. degree in EECS and B.A. degree in Economics.</p>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
@@ -61,6 +60,7 @@ Mentor: <a href="https://www.linkedin.com/in/tbansal-0998216">Tarun Bansal</a><b
 </p>
 
 ## Publications
+<p><b>Research Summary:</b> I am passionate about <i>large-scale, high-throughput and low-latency </i> computing systems. I've built <b>Lemur</b>, a high-throuhgput NFV cross-platform compiler; <b>Quadrant</b>, a serverless platform with an efficient isolation mechanism; <b>Ironside</b>, a rack-scale scheduler that offers latency guarantees for NFV; <b>PGPP</b>, a privacy-preserving proxy (one example of NFV app) for Android (<a href="https://play.google.com/store/apps/details?id=com.invisv.pgpp&hl=en_US&gl=US&pli=1">free download</a> @ Google Play Store). PGPP can hide your IP address when you use ANY web services (see <a href="https://www.wired.com/story/pretty-good-phone-privacy-android/">Wired report</a> for more info).</p>
 
 <p>
 <li>
