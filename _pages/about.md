@@ -15,12 +15,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-## Bio
+<h3 style="font-weight: 350">Bio</h3>
 <p>Hey, thanks for stopping by! 👋</p>
 
-<p>I will join Oracle as a senior software engineer in August!</p>
+<!-- <p>I will join Oracle as a software engineer in August!</p> -->
 
-<p>I am a Ph.D. in <a href="https://minghsiehee.usc.edu/">Electrical and Computer Engineering</a> at <a href="http://www.usc.edu">University of Southern California</a>. I am co-advised by  <a href="https://govindan.usc.edu/">Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Barath Raghavan</a> at <a href="https://nsl.usc.edu/">Networked System Lab</a>.</p>
+<p>I am a Ph.D. in <a href="https://minghsiehee.usc.edu/">Electrical and Computer Engineering</a> at <a href="http://www.usc.edu">University of Southern California</a>. I am co-advised by  <a href="https://govindan.usc.edu/">Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Barath Raghavan</a> at <a href="https://nsl.usc.edu/">Networked System Lab</a>. I will join Oracle as a software engineer in August!</p>
 
 <p>I enjoy Computer Networking and System research, including software-defined networking (SDN), network function virtualization (NFV), and high-performance cloud computing. My dissertation is about designing OS-level supports to achieve <i>performant, scalable and efficient</i> cloud services.</p>
 
@@ -32,8 +32,9 @@ social: false  # includes social icons at the bottom of the page
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-## Work Experience
+<hr>
 
+<h3 style="font-weight: 350">Work Experience</h3>
 <p>
 <em><b>Founding Engineer</b> (2022 - now)</em><br>
 INVISV Inc., Los Angeles, CA.<br>
@@ -45,22 +46,25 @@ Department of Computer Science, University of Southern California.<br>
 <p>
 <em><b>Research Intern on TCP BBR</b> (May 2020 - Aug 2020)</em><br>
 Google Inc., New York City, NY.<br>
-Mentor: <a href="http://neal.nu/">Neal Cardwell</a><br>
+<!-- Mentor: <a href="http://neal.nu/">Neal Cardwell</a><br> -->
 </p>
 <p>
 <em><b>SWE Intern on Chromium Networking Stack</b> (May 2019 - Aug 2019)</em><br>
 Google Inc., Seattle, WA.<br>
-Mentor: <a href="https://www.linkedin.com/in/tbansal-0998216">Tarun Bansal</a><br>
+<!-- Mentor: <a href="https://www.linkedin.com/in/tbansal-0998216">Tarun Bansal</a><br> -->
 </p>
 
-## Teaching
+<hr>
 
+<h3 style="font-weight: 350">Teaching</h3>
 <p>
 <b>Course:</b> CSCI 402 (Operating Systems), Fall '22 / Spring '23 / Summer '23
 </p>
 
-## Publications
-<p><b>Research Summary:</b> I am passionate about <i>large-scale, high-throughput and low-latency </i> computing systems. I've built <b>Lemur</b>, a high-throuhgput NFV cross-platform compiler; <b>Quadrant</b>, a serverless platform with an efficient isolation mechanism; <b>Ironside</b>, a rack-scale scheduler that offers latency guarantees for NFV; <b>PGPP</b>, a privacy-preserving proxy (one example of NFV app) for Android (<a href="https://play.google.com/store/apps/details?id=com.invisv.pgpp&hl=en_US&gl=US&pli=1">free download</a> @ Google Play Store). PGPP can hide your IP address when you use ANY web services (see <a href="https://www.wired.com/story/pretty-good-phone-privacy-android/">Wired report</a> for more info).</p>
+<hr>
+
+<h3 style="font-weight: 350">Publications</h3>
+<p><b>Research Summary:</b> I work on <i>scalable, high-throughput and low-latency</i> computing systems. I built <b>Lemur</b>, a high-throuhgput NFV cross-platform compiler; <b>Quadrant</b>, a serverless platform with an efficient isolation mechanism; <b>Ironside</b>, a rack-scale scheduler that offers latency guarantees for NFV; <b>PGPP</b>, a privacy-preserving proxy (one example of NFV app) for Android (<a href="https://play.google.com/store/apps/details?id=com.invisv.pgpp&hl=en_US&gl=US&pli=1">free download</a> @ Google Play Store). PGPP can hide your IP address when you use ANY web services (see <a href="https://www.wired.com/story/pretty-good-phone-privacy-android/">Wired report</a> for more info).</p>
 
 <p>
 <li>
@@ -110,14 +114,17 @@ In arXiv:2101.06466, January 2021<br>
 <p>
 <li>
 <a href="https://dl.acm.org/doi/10.1145/3386367.3431292"><b>Meeting SLOs in Cross-Platform NFV</b></a><br/>
-Jane Yen*, <b>Jianfeng Wang*</b>, Sucha Supittayapornpong, and Marcos A M Vieira, Ramesh Govindan, Barath Raghavan (*: co-first author)<br>
+Jane Yen*, <b>Jianfeng Wang*</b>, Sucha Supittayapornpong, and Marcos A. M. Vieira, Ramesh Govindan, Barath Raghavan<br>
 In CoNEXT '20: Proceedings of the 16th International Conference on Emerging Networking EXperiments and Technologies, 2020<br>
 &#9786; <i>Offloading NFV automatically to Smart NICs, OpenFlow and P4 switches to hit NFV SLOs.</i>
 </li>
 </p>
-<p></p>
 
-## Contact
+<p>(*: co-first author)</p>
+
+<hr>
+
+<h3 style="font-weight: 350">Contact</h3>
 
 <p>
   University of Southern California<br>
