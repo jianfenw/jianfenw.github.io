@@ -19,6 +19,7 @@ social: false  # includes social icons at the bottom of the page
 <p>Hey, thanks for stopping by! 👋</p>
 
 <!-- <p>I will join Oracle as a software engineer in August!</p> -->
+<!-- <hr style="height:1px;border-width:0;color:rgb(200, 200, 200);background-color:rgb(200, 200, 200)"> -->
 
 <p>I am a Ph.D. in <a href="https://minghsiehee.usc.edu/">Electrical and Computer Engineering</a> at <a href="http://www.usc.edu">University of Southern California</a>. I am co-advised by  <a href="https://govindan.usc.edu/">Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Barath Raghavan</a> at <a href="https://nsl.usc.edu/">Networked System Lab</a>. I will join Oracle as a software engineer in August!</p>
 
