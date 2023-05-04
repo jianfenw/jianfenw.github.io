@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 <!-- <p>I will join Oracle as a software engineer in August!</p> -->
 <!-- <hr style="height:1px;border-width:0;color:rgb(200, 200, 200);background-color:rgb(200, 200, 200)"> -->
 
-<p>I am a Ph.D. in <a href="https://minghsiehee.usc.edu/">Electrical and Computer Engineering</a> at <a href="http://www.usc.edu">University of Southern California</a>. I am co-advised by  <a href="https://govindan.usc.edu/">Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Barath Raghavan</a> at <a href="https://nsl.usc.edu/">Networked System Lab</a>. I will join Oracle as a software engineer in August!</p>
+<p>I am a Ph.D. in <a href="https://minghsiehee.usc.edu/">Electrical and Computer Engineering</a> at <a href="http://www.usc.edu">University of Southern California</a>. I am co-advised by  <a href="https://govindan.usc.edu/">Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Barath Raghavan</a> at <a href="https://nsl.usc.edu/">Networked System Lab</a>.</p>
 
 <p>I enjoy Computer Networking and System research, including software-defined networking (SDN), network function virtualization (NFV), and high-performance cloud computing. My dissertation is about designing OS-level supports to achieve <i>performant, scalable and efficient</i> cloud services.</p>
 
@@ -78,10 +78,10 @@ Under submission<br>
 
 <p>
 <li>
-<a href="/"><b>Microsecond-scale Latency SLOs for Network Function Virtualization</b></a><br/>
+<a href="https://arxiv.org/abs/2305.01890"><b>Scheduling Network Function Chains Under Sub-Millisecond Latency SLOs</b></a><br/>
 <b>Jianfeng Wang</b>, Siddhant Gupta, Marcos A. M. Vieira, Barath Raghavan, and Ramesh Govindan<br>
-Under submission<br>
-&#9786; <i>Providing untra-low latency for NFV.</i>
+Preprint, May 2023<br>
+&#9786; <i>Providing untra-low latency for NFV in cluster.</i>
 </li>
 </p>
 
