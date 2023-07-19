@@ -68,7 +68,7 @@ Google Inc., Seattle, WA.<br>
 <li>
 <a href="https://www.freepatentsonline.com/y2023/0198907.html"><b>Methods and Systems for Efficient and Secure Network Function Execution</b></a><br/>
 Barath Raghavan, Ramesh Govindan, Zhuojin Li, and <b>Jianfeng Wang</b><br>
-US Patent<br>
+US Patent App. 18/082,873, 2023<br>
 &#9786; <i>Design of a cloud platform for supporting secure and efficient NFV.</i>
 </li>
 </p>
@@ -93,7 +93,7 @@ Preprint, May 2023<br>
 
 <p>
 <li>
-<a href="/"><b>Pinolo: Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis</b></a><br/>
+<a href="https://www.usenix.org/conference/atc23/presentation/hao"><b>Pinolo: Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis</b></a><br/>
 Zongyin Hao, Quanfeng Huang, Chengpeng Wang, <b>Jianfeng Wang</b>, Yushan Zhang, Rongxin Wu, and Charles Zhang<br>
 In ATC ’23: Proceedings of the USENIX Annual Technical Conference, 2023<br>
 &#9786; <i>Finding critical bugs in widely-used database management systems.</i>
