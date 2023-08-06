@@ -68,7 +68,7 @@ Google Inc., Seattle, WA.<br>
 
 <p>
 <li>
-<a href="/"><b>Performant, Scalable, and Efficient Deployment of Network Function Virtualization</b></a><br/>
+<a href="https://www.proquest.com/dissertations-theses/performant-scalable-efficient-deployment-network/docview/2845147963/se-2"><b>Performant, Scalable, and Efficient Deployment of Network Function Virtualization</b></a><br/>
 <b>Jianfeng Wang</b><br>
 PhD Dissertation, August 2023<br>
 </li>
