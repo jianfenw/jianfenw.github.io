@@ -21,20 +21,22 @@ social: false  # includes social icons at the bottom of the page
 
 <!-- bundle exec jekyll -->
 
-<h3 style="font-weight: 350">Bio</h3>
-<p>Hey, thanks for stopping by! 👋</p>
+<h4 style="font-weight: 350">Bio</h4>
+<p>👋 Hey! I am a senior software engineer at <a href="https://www.oracle.com/in/corporate/">Oracle Corp @ Redwood</a>.</p>
 
-<p>I am a senior software engineer at <a href="https://www.oracle.com/in/corporate/">Oracle Corporation @ Redwood</a>.</p>
+<p>I got my Ph.D. in <a href="https://minghsiehee.usc.edu/">ECE</a> from <a href="http://www.usc.edu">University of Southern California</a>, advised by <a href="https://govindan.usc.edu/">Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Barath Raghavan</a> in <a href="https://nsl.usc.edu/">Networked System Lab</a>. My Ph.D. dissertation is about designing OS-level supports to achieve <i>high-performance, scalable, and efficient</i> cloud services.</p>
 
-<p>I received my <a href="https://minghsiehee.usc.edu/">Electrical and Computer Engineering</a> Ph.D. from <a href="http://www.usc.edu">University of Southern California</a>. During my study, I was co-advised by  <a href="https://govindan.usc.edu/">Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Barath Raghavan</a> at <a href="https://nsl.usc.edu/">Networked System Lab</a>. Prior to that, I spent four wonderful years at <a href="http://english.pku.edu.cn/">Peking University</a>, graduating with B.S. degree in EECS and B.A. degree in Economics.</p>
+<p>Prior to that, I spent four wonderful years at <a href="http://english.pku.edu.cn/">Peking University</a>, graduating with B.S. degree in EECS and B.A. degree in Economics.</p>
 
-<p>I enjoy Computer Networking and Systems research, including software-defined networking (SDN), network function virtualization (NFV), and cloud computing. My Ph.D. dissertation is about designing OS-level supports to achieve <i>performant, scalable, and efficient</i> cloud services.</p>
+<!-- <p>I enjoy working on Computer Networking and Systems, including software-defined networking (SDN), network function virtualization (NFV), and cloud computing. </p> -->
+
+<!-- I got my PhD degree in Computer Engineering at USC under supervision of Ramesh Govindan and Minlan Yu in NSL from Fall 2010.  -->
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
 <hr>
 
-<h3 style="font-weight: 350">Work Experience</h3>
+<h4 style="font-weight: 350">Work Experience</h4>
 <p>
 <em><b>Founding Staff Engineer</b> (2022 - now)</em><br>
 INVISV Inc., Los Angeles, CA.<br>
@@ -56,14 +58,14 @@ Google Inc., Seattle, WA.<br>
 
 <hr>
 
-<h3 style="font-weight: 350">Teaching</h3>
+<h4 style="font-weight: 350">Teaching</h4>
 <p>
 <b>Course:</b> CSCI 402 (Operating Systems), Fall '22 / Spring '23 / Summer '23
 </p>
 
 <hr>
 
-<h3 style="font-weight: 350">Publications</h3>
+<h4 style="font-weight: 350">Publications</h4>
 <p><b>Research Summary:</b> I work on <i>high-throughput and low-latency</i> computing systems. I built <b>Lemur</b>, a high-throuhgput NFV cross-platform compiler; <b>Quadrant</b>, a serverless platform with an efficient isolation mechanism; <b>Ironside</b>, a rack-scale scheduler that offers latency guarantees; <b>PGPP</b>, a privacy-preserving proxy (one NFV app) for Android (<a href="https://play.google.com/store/apps/details?id=com.invisv.pgpp&hl=en_US&gl=US&pli=1">free download</a> @ Google Play Store). PGPP can hide your IP address when you use ANY web services (see <a href="https://www.wired.com/story/pretty-good-phone-privacy-android/">Wired report</a> for more).</p>
 
 <p>
@@ -141,11 +143,10 @@ In CoNEXT '20: Proceedings of the 16th International Conference on Emerging Netw
 
 <hr>
 
-<h3 style="font-weight: 350">Contact</h3>
+<h4 style="font-weight: 350">Contact</h4>
 
 <p>
-  University of Southern California<br>
-  Department of Computer Science<br>
-  941 Bloom Walk, SAL 217<br>
-  Los Angeles, CA 90089-0781<br>
+  Oracle Building 500<br>
+  500 Oracle Pkwy<br>
+  Redwood City, CA 94065, USA<br>
 </p>
