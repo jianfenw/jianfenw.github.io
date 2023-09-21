@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: 
 
-news: false  # includes a list of news items
+news: false
+latest_posts: false
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
@@ -22,7 +23,7 @@ social: false  # includes social icons at the bottom of the page
 <!-- bundle exec jekyll -->
 
 <h4 style="font-weight: 350">Bio</h4>
-<p>👋 Hey! I am a senior software engineer at <a href="https://www.oracle.com/in/corporate/">Oracle Corp @ Redwood</a>.</p>
+<p>👋 I am a senior software engineer at <a href="https://www.oracle.com/in/corporate/">Oracle Corp</a> @ <a href="https://www.bizjournals.com/sanfrancisco/blog/techflash/2016/04/oracle-hq-redwood-shores-campus-workplace-perks.html">Redwood</a>.</p>
 
 <p>I got my Ph.D. in <a href="https://minghsiehee.usc.edu/">ECE</a> from <a href="http://www.usc.edu">University of Southern California</a>, advised by <a href="https://govindan.usc.edu/">Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Barath Raghavan</a> in <a href="https://nsl.usc.edu/">Networked System Lab</a>. My Ph.D. dissertation is about designing OS-level supports to achieve <i>high-performance, scalable, and efficient</i> cloud services.</p>
 
@@ -32,17 +33,15 @@ social: false  # includes social icons at the bottom of the page
 
 <!-- I got my PhD degree in Computer Engineering at USC under supervision of Ramesh Govindan and Minlan Yu in NSL from Fall 2010.  -->
 
-<!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
-
 <hr>
 
 <h4 style="font-weight: 350">Work Experience</h4>
 <p>
-<em><b>Founding Staff Engineer</b> (2022 - now)</em><br>
+<em><b>Founding Staff Engineer</b> (2022 - 2023)</em><br>
 INVISV Inc., Los Angeles, CA.<br>
 </p>
 <p>
-<em><b>Graduate Research Assistant</b> (2017 - now)</em><br>
+<em><b>Graduate Research Assistant</b> (2017 - 2023)</em><br>
 Department of Computer Science, University of Southern California.<br>
 </p>
 <p>
@@ -66,6 +65,7 @@ Google Inc., Seattle, WA.<br>
 <hr>
 
 <h4 style="font-weight: 350">Publications</h4>
+
 <p><b>Research Summary:</b> I work on <i>high-throughput and low-latency</i> computing systems. I built <b>Lemur</b>, a high-throuhgput NFV cross-platform compiler; <b>Quadrant</b>, a serverless platform with an efficient isolation mechanism; <b>Ironside</b>, a rack-scale scheduler that offers latency guarantees; <b>PGPP</b>, a privacy-preserving proxy (one NFV app) for Android (<a href="https://play.google.com/store/apps/details?id=com.invisv.pgpp&hl=en_US&gl=US&pli=1">free download</a> @ Google Play Store). PGPP can hide your IP address when you use ANY web services (see <a href="https://www.wired.com/story/pretty-good-phone-privacy-android/">Wired report</a> for more).</p>
 
 <p>
@@ -73,6 +73,15 @@ Google Inc., Seattle, WA.<br>
 <a href="https://www.proquest.com/dissertations-theses/performant-scalable-efficient-deployment-network/docview/2845147963/se-2"><b>Performant, Scalable, and Efficient Deployment of Network Function Virtualization</b></a><br/>
 <b>Jianfeng Wang</b><br>
 PhD Dissertation, August 2023<br>
+</li>
+</p>
+
+<p>
+<li>
+<a href="/"><b>Constrained Traffic Handling in Data Centers</b></a><br/>
+Sen Lin, <b>Jianfeng Wang</b>, and Aleksandar Kuzmanovic<br>
+Under submission<br>
+&#9786; <i>Schedule data packets in-network to accelerate applications.</i>
 </li>
 </p>
 
@@ -98,7 +107,7 @@ Under submission<br>
 <li>
 <a href="https://arxiv.org/abs/2305.01890"><b>Scheduling Network Function Chains Under Sub-Millisecond Latency SLOs</b></a><br/>
 <b>Jianfeng Wang</b>, Siddhant Gupta, Marcos A. M. Vieira, Barath Raghavan, and Ramesh Govindan<br>
-Preprint, May 2023<br>
+In arXiv:2305.01890, May 2023<br>
 &#9786; <i>Providing untra-low latency for NFV in cluster.</i>
 </li>
 </p>

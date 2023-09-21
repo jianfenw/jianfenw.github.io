@@ -52,8 +52,8 @@
                 </a>
               </li>
 
+              {% if site.blog_nav_title %}
               <!-- Blog -->
-              <!-- {% if site.blog_nav_title %}
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
                   {%- if page.url contains 'blog' -%}
@@ -61,9 +61,9 @@
                   {%- endif -%}
                 </a>
               </li>
-              {%- endif %} -->
+              {%- endif %}
 
-              <li class="nav-item active">
+              <li class="nav-item">
                 <!-- <a class="nav-link" href="/assets/pdf/Jianfeng_CV.pdf">cv -->
                 <a class="nav-link" href="https://www.linkedin.com/in/jianfeng-wang-291a35129/">cv
                 </a>
