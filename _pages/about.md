@@ -45,6 +45,30 @@ Google Inc., Seattle, WA.<br>
 </p>
 <hr>
 
+<h4 style="font-weight: 350">Upstream Patchsets</h4>
+<p>
+<li>
+<a href="https://lore.kernel.org/linux-trace-devel/20240717231703.46744-1-jianfeng.w.wang@oracle.com/T/"><b>trace-cmd report: Print function retval in function_graph</b></a><br/>
+:gear: <i>Support printing function return values in trace-cmd.</i>
+</li>
+</p>
+
+<p>
+<li>
+<a href="https://lore.kernel.org/linux-mm/20240423045554.15045-3-jianfeng.w.wang@oracle.com/T/"><b>slub: introduce count_partial_free_approx()</b></a><br/>
+:gear: <i>Fix a crash case for /proc/slabinfo.</i>
+</li>
+</p>
+
+<p>
+<li>
+<a href="https://www.spinics.net/lists/netdev/msg673727.html"><b>tcp: apply a floor of 1 for RTT samples from TCP timestamps</b></a><br/>
+:gear: <i>A (magical) patch that improves TCP throughput by 10Gbps in GCP.</i>
+</li>
+</p>
+<hr>
+
+
 <h4 style="font-weight: 350">Publications</h4>
 
 <p><b>I work on <i>high-throughput and low-latency</i> computing systems.</b>
@@ -65,7 +89,7 @@ PhD Dissertation, 2023<br>
 <a href="/"><b>Optimizing Traffic in Public-Facing Data Centers</b></a><br/>
 Sen Lin, <b>Jianfeng Wang</b>, and Aleksandar Kuzmanovic<br>
 In ICNP '24: IEEE International Conference on Network Protocols<br>
-&#9786; <i>Enable network scheduling on public-facing traffic on top of existing network protocols.</i>
+:bulb: <i>Enable network scheduling on public-facing traffic on top of existing network protocols.</i>
 </li>
 </p>
 
@@ -74,7 +98,7 @@ In ICNP '24: IEEE International Conference on Network Protocols<br>
 <a href="/"><b>Optimizing Traffic in Public-Facing Data Centers Amid Internet Protocols</b></a><br/>
 Sen Lin, <b>Jianfeng Wang</b>, and Aleksandar Kuzmanovic<br>
 In NSDI '24, poster<br>
-&#9786; <i>Schedule data packets over public network to improve flow-completion time.</i>
+:bulb: <i>Schedule data packets over public network to improve flow-completion time.</i>
 </li>
 </p>
 
@@ -83,7 +107,7 @@ In NSDI '24, poster<br>
 <a href="https://www.freepatentsonline.com/y2023/0198907.html"><b>Methods and Systems for Efficient and Secure Network Function Execution</b></a><br/>
 Barath Raghavan, Ramesh Govindan, Zhuojin Li, and <b>Jianfeng Wang</b><br>
 US Patent App. 18/082,873, 2023<br>
-&#9786; <i>Design of a cloud platform for supporting secure and efficient NFV.</i>
+:bulb: <i>Design of a cloud platform for supporting secure and efficient NFV.</i>
 </li>
 </p>
 
@@ -92,7 +116,7 @@ US Patent App. 18/082,873, 2023<br>
 <a href="/"><b>ePipe: Multi-Party Trust Interposition for Network Stacks</b></a><br/>
 <b>Jianfeng Wang</b>, Rob McGuinness, Grace Susanto, Kyle MacMillan, Max Bittman, Barath Raghavan, and Paul Schmitt<br>
 Under submission<br>
-&#9786; <i>Architecture/mechanisms for ensuring metadata level privacy for web browsing and more.</i>
+:bulb: <i>Architecture/mechanisms for ensuring metadata level privacy for web browsing and more.</i>
 </li>
 </p>
 
@@ -101,7 +125,7 @@ Under submission<br>
 <a href="https://arxiv.org/abs/2305.01890"><b>Scheduling Network Function Chains Under Sub-Millisecond Latency SLOs</b></a><br/>
 <b>Jianfeng Wang</b>, Siddhant Gupta, Marcos A. M. Vieira, Barath Raghavan, and Ramesh Govindan<br>
 In arXiv:2305.01890, May 2023<br>
-&#9786; <i>Providing untra-low latency for NFV in cluster.</i>
+:bulb: <i>Providing untra-low latency for NFV in cluster.</i>
 </li>
 </p>
 
@@ -110,7 +134,7 @@ In arXiv:2305.01890, May 2023<br>
 <a href="https://www.usenix.org/conference/atc23/presentation/hao"><b>Pinolo: Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis</b></a><br/>
 Zongyin Hao, Quanfeng Huang, Chengpeng Wang, <b>Jianfeng Wang</b>, Yushan Zhang, Rongxin Wu, and Charles Zhang<br>
 In ATC ’23: Proceedings of the USENIX Annual Technical Conference, 2023<br>
-&#9786; <i>Finding critical bugs in widely-used database management systems.</i>
+:bulb: <i>Finding critical bugs in widely-used database management systems.</i>
 </li>
 </p>
 
@@ -119,7 +143,7 @@ In ATC ’23: Proceedings of the USENIX Annual Technical Conference, 2023<br>
 <a href="https://dl.acm.org/doi/abs/10.1145/3542929.3563471"><b>Quadrant: A Cloud-Deployable NF Virtualization Platform</b></a><br/>
 <b>Jianfeng Wang</b>, Tamás Lévai, Zhuojin Li, and Marcos A. M. Vieira, Ramesh Govindan, Barath Raghavan<br>
 In SoCC ’22: Proceedings of the ACM Symposium on Cloud Computing, 2022<br>
-&#9786; <i>Making NFV fast and flexible in the cloud context.</i>
+:bulb: <i>Making NFV fast and flexible in the cloud context.</i>
 </li>
 </p>
 
@@ -128,7 +152,7 @@ In SoCC ’22: Proceedings of the ACM Symposium on Cloud Computing, 2022<br>
 <a href="https://arxiv.org/abs/2101.06466"><b>Galleon: Reshaping the Square Peg of NFV</b></a><br/>
 <b>Jianfeng Wang</b>, Tamás Lévai, Zhuojin Li, and Marcos A. M. Vieira, Ramesh Govindan, Barath Raghavan<br>
 In arXiv:2101.06466, January 2021<br>
-&#9786; <i>NFV with lightwight isolation and FaaS-based scaling.</i>
+:bulb: <i>NFV with lightwight isolation and FaaS-based scaling.</i>
 </li>
 </p>
 
@@ -137,7 +161,7 @@ In arXiv:2101.06466, January 2021<br>
 <a href="https://dl.acm.org/doi/10.1145/3386367.3431292"><b>Meeting SLOs in Cross-Platform NFV</b></a><br/>
 Jane Yen*, <b>Jianfeng Wang*</b>, Sucha Supittayapornpong, and Marcos A. M. Vieira, Ramesh Govindan, Barath Raghavan<br>
 In CoNEXT '20: Proceedings of the 16th International Conference on Emerging Networking EXperiments and Technologies, 2020<br>
-&#9786; <i>Offloading NFV automatically to Smart NICs, OpenFlow and P4 switches to hit NFV SLOs.</i>
+:bulb: <i>Offloading NFV automatically to Smart NICs, OpenFlow and P4 switches to hit NFV SLOs.</i>
 </li>
 </p>
 
