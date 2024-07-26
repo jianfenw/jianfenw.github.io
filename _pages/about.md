@@ -20,19 +20,10 @@ social: false  # includes social icons at the bottom of the page
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-<!-- bundle exec jekyll -->
-
 <h4 style="font-weight: 350">Bio</h4>
-<p>👋 I am a senior software engineer at <a href="https://www.oracle.com/in/corporate/">Oracle Corp</a> @ <a href="https://www.bizjournals.com/sanfrancisco/blog/techflash/2016/04/oracle-hq-redwood-shores-campus-workplace-perks.html">Redwood</a>.</p>
+<p>👋 I am a senior software engineer at <a href="https://www.oracle.com/in/corporate/">Oracle Corp</a> @ <a href="https://www.bizjournals.com/sanfrancisco/blog/techflash/2016/04/oracle-hq-redwood-shores-campus-workplace-perks.html">Redwood</a>. I work on Linux core kernel, develop kernel diagnosis tools, and write Linux blogs.</p>
 
-<p>I got my Ph.D. in <a href="https://minghsiehee.usc.edu/">ECE</a> from <a href="http://www.usc.edu">University of Southern California</a>, advised by <a href="https://govindan.usc.edu/">Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Barath Raghavan</a> in <a href="https://nsl.usc.edu/">Networked System Lab</a>. My Ph.D. dissertation is about designing OS-level supports to achieve <i>high-performance, scalable, and efficient</i> cloud services.</p>
-
-<p>Prior to that, I spent four wonderful years at <a href="http://english.pku.edu.cn/">Peking University</a>, graduating with B.S. degree in EECS and B.A. degree in Economics.</p>
-
-<!-- <p>I enjoy working on Computer Networking and Systems, including software-defined networking (SDN), network function virtualization (NFV), and cloud computing. </p> -->
-
-<!-- I got my PhD degree in Computer Engineering at USC under supervision of Ramesh Govindan and Minlan Yu in NSL from Fall 2010.  -->
-
+<p>I got my <a href="https://minghsiehee.usc.edu/">ECE</a> Ph.D. from <a href="http://www.usc.edu">University of Southern California</a>, advised by <a href="https://govindan.usc.edu/">Ramesh Govindan</a> and <a href="https://raghavan.usc.edu/">Barath Raghavan</a> in <a href="https://nsl.usc.edu/">Networked System Lab</a>. My Ph.D. dissertation is about designing OS-level supports to achieve <i>high-performance, scalable, and efficient</i> cloud services. Prior to that, I spent four wonderful years at <a href="http://english.pku.edu.cn/">Peking University</a>, graduating with B.S. degree in EECS and B.A. degree in Economics.</p>
 <hr>
 
 <h4 style="font-weight: 350">Work Experience</h4>
@@ -45,43 +36,45 @@ INVISV Inc., Los Angeles, CA.<br>
 Department of Computer Science, University of Southern California.<br>
 </p>
 <p>
-<em><b>Research Intern on TCP BBR</b> (May 2020 - Aug 2020)</em><br>
+<em><b>Research Intern, Google NetInfra</b> (May 2020 - Aug 2020)</em><br>
 Google Inc., New York City, NY.<br>
-<!-- Mentor: <a href="http://neal.nu/">Neal Cardwell</a><br> -->
 </p>
 <p>
-<em><b>SWE Intern on Chromium Net Stack</b> (May 2019 - Aug 2019)</em><br>
+<em><b>SWE Intern, Chromium Net Stack</b> (May 2019 - Aug 2019)</em><br>
 Google Inc., Seattle, WA.<br>
-<!-- Mentor: <a href="https://www.linkedin.com/in/tbansal-0998216">Tarun Bansal</a><br> -->
 </p>
-
-<hr>
-
-<h4 style="font-weight: 350">Teaching</h4>
-<p>
-<b>Course:</b> CSCI 402 (Operating Systems), Fall '22 / Spring '23 / Summer '23
-</p>
-
 <hr>
 
 <h4 style="font-weight: 350">Publications</h4>
 
-<p><b>Research Summary:</b> I work on <i>high-throughput and low-latency</i> computing systems. I built <b>Lemur</b>, a high-throuhgput NFV cross-platform compiler; <b>Quadrant</b>, a serverless platform with an efficient isolation mechanism; <b>Ironside</b>, a rack-scale scheduler that offers latency guarantees; <b>PGPP</b>, a privacy-preserving proxy (one NFV app) for Android (<a href="https://play.google.com/store/apps/details?id=com.invisv.pgpp&hl=en_US&gl=US&pli=1">free download</a> @ Google Play Store). PGPP can hide your IP address when you use ANY web services (see <a href="https://www.wired.com/story/pretty-good-phone-privacy-android/">Wired report</a> for more).</p>
+<p><b>I work on <i>high-throughput and low-latency</i> computing systems.</b>
+<!-- I built <b>Lemur</b>, a high-throuhgput NFV cross-platform compiler; <b>Quadrant</b>, a serverless platform with an efficient isolation mechanism; <b>Ironside</b>, a rack-scale scheduler that offers latency guarantees; <b>PGPP</b>, a privacy-preserving proxy (one NFV app) for Android (<a href="https://play.google.com/store/apps/details?id=com.invisv.pgpp&hl=en_US&gl=US&pli=1">free download</a> @ Google Play Store). PGPP can hide your IP address when you use ANY web services (see <a href="https://www.wired.com/story/pretty-good-phone-privacy-android/">Wired report</a> for more).</p> -->
+<hr>
+
+
+<p>
+<a href="https://www.proquest.com/dissertations-theses/performant-scalable-efficient-deployment-network/docview/2845147963/se-2"><b>Performant, Scalable, and Efficient Deployment of Network Function Virtualization</b></a><br/>
+<b>Jianfeng Wang</b><br>
+PhD Dissertation, 2023<br>
+</p>
+<hr>
+
 
 <p>
 <li>
-<a href="https://www.proquest.com/dissertations-theses/performant-scalable-efficient-deployment-network/docview/2845147963/se-2"><b>Performant, Scalable, and Efficient Deployment of Network Function Virtualization</b></a><br/>
-<b>Jianfeng Wang</b><br>
-PhD Dissertation, August 2023<br>
+<a href="/"><b>Optimizing Traffic in Public-Facing Data Centers</b></a><br/>
+Sen Lin, <b>Jianfeng Wang</b>, and Aleksandar Kuzmanovic<br>
+In ICNP '24: IEEE International Conference on Network Protocols<br>
+&#9786; <i>Enable network scheduling on public-facing traffic on top of existing network protocols.</i>
 </li>
 </p>
 
 <p>
 <li>
-<a href="/"><b>Constrained Traffic Handling in Data Centers</b></a><br/>
+<a href="/"><b>Optimizing Traffic in Public-Facing Data Centers Amid Internet Protocols</b></a><br/>
 Sen Lin, <b>Jianfeng Wang</b>, and Aleksandar Kuzmanovic<br>
-Under submission<br>
-&#9786; <i>Schedule data packets in-network to accelerate applications.</i>
+In NSDI '24, poster<br>
+&#9786; <i>Schedule data packets over public network to improve flow-completion time.</i>
 </li>
 </p>
 
@@ -149,11 +142,17 @@ In CoNEXT '20: Proceedings of the 16th International Conference on Emerging Netw
 </p>
 
 <p>(*: co-first author)</p>
-
 <hr>
 
-<h4 style="font-weight: 350">Contact</h4>
 
+<h4 style="font-weight: 350">Teaching</h4>
+<p>
+<b>Course:</b> CSCI 402 (Operating Systems), Fall '22 / Spring '23 / Summer '23
+</p>
+<hr>
+
+
+<h4 style="font-weight: 350">Contact</h4>
 <p>
   Oracle Building 500<br>
   500 Oracle Pkwy<br>

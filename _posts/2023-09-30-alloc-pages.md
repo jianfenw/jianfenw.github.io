@@ -1,11 +1,11 @@
 ---
 layout: post
-title: How does alloc_pages work?
+title: Get physical pages via alloc_pages
 date: 2023-09-21 01:12:00
-description: Explain alloc_pages
+description: Understand how Linux kernel allocates, compacts, and reclaims memory pages.
 tags: mm
-categories: memory
 ---
+
 This theme implements a built-in Jekyll feature, the use of Rouge, for syntax highlighting.
 It supports more than 100 languages.
 This example is in C++.
