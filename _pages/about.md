@@ -88,7 +88,7 @@ PhD Dissertation, 2023<br>
 <li>
 <a href="/"><b>Optimizing Traffic in Public-Facing Data Centers</b></a><br/>
 Sen Lin, <b>Jianfeng Wang</b>, and Aleksandar Kuzmanovic<br>
-In ICNP '24: the 32nd IEEE International Conference on Network Protocols, October 2024<br>
+In ICNP '24: IEEE International Conference on Network Protocols, October 2024<br>
 :bulb: <i>Enable network scheduling on public-facing traffic on top of existing network protocols.</i>
 </li>
 </p>
@@ -97,7 +97,7 @@ In ICNP '24: the 32nd IEEE International Conference on Network Protocols, Octobe
 <li>
 <a href="/"><b>Optimizing Traffic in Public-Facing Data Centers Amid Internet Protocols</b></a><br/>
 Sen Lin, <b>Jianfeng Wang</b>, and Aleksandar Kuzmanovic<br>
-In NSDI '24: 21st USENIX Symposium on Networked Systems Design and Implementation, April 2024<br>
+In NSDI '24: USENIX Symposium on Networked Systems Design and Implementation, April 2024<br>
 :bulb: <i>Schedule data packets over public network to improve flow-completion time.</i>
 </li>
 </p>
@@ -133,7 +133,7 @@ In arXiv:2305.01890, May 2023<br>
 <li>
 <a href="https://www.usenix.org/conference/atc23/presentation/hao"><b>Pinolo: Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis</b></a><br/>
 Zongyin Hao, Quanfeng Huang, Chengpeng Wang, <b>Jianfeng Wang</b>, Yushan Zhang, Rongxin Wu, and Charles Zhang<br>
-In ATC ’23: 2023 USENIX Annual Technical Conference, July 2023<br>
+In ATC ’23: USENIX Annual Technical Conference, July 2023<br>
 :bulb: <i>Finding critical bugs in widely-used database management systems.</i>
 </li>
 </p>
@@ -142,7 +142,7 @@ In ATC ’23: 2023 USENIX Annual Technical Conference, July 2023<br>
 <li>
 <a href="https://dl.acm.org/doi/abs/10.1145/3542929.3563471"><b>Quadrant: A Cloud-Deployable NF Virtualization Platform</b></a><br/>
 <b>Jianfeng Wang</b>, Tamás Lévai, Zhuojin Li, and Marcos A. M. Vieira, Ramesh Govindan, Barath Raghavan<br>
-In SoCC '22: the 13th ACM Symposium on Cloud Computing, November 2022<br>
+In SoCC '22: ACM Symposium on Cloud Computing, November 2022<br>
 :bulb: <i>Making NFV fast and flexible in the cloud context.</i>
 </li>
 </p>
